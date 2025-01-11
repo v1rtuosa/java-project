@@ -1,3 +1,5 @@
+// a simple program to check your score(number) to grade(A/B/C/D/E)
+
 package gradeCheck;
 import java.util.Scanner;
 
